@@ -64,7 +64,7 @@ Currently curious about almost everything, always learning, building practical t
 ## 💌 let's talk ♡
 
 
-[**github · @teeeezal**](https://github.com/teeeezal) · [**linkedin · /tejalnarwal**](https://www.linkedin.com/in/tejalnarwal/)
+[**instagram · @teeeezal**](https://instagram.com/teeeezal) · [**linkedin · /tejalnarwal**](https://www.linkedin.com/in/tejalnarwal/)
 
 *i'm anonymous elsewheree 🤧*
 
