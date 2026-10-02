@@ -61,13 +61,14 @@ Currently curious about almost everything, always learning, building practical t
 
 ---
 
-## 💌 my contact ♡
+## 💌 let's talk ♡
 
-<p align="center">
-<img src="assets/lets-talk.svg" width="760" alt="Let's talk panel">
-</p>
 
-<div align="center">
+[**github · @teeeezal**](https://github.com/teeeezal) · [**linkedin · /tejalnarwal**](https://www.linkedin.com/in/tejalnarwal/)
+
+*i'm anonymous elsewheree 🤧*
+
+</div>
 
 
 ---
