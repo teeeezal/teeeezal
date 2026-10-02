@@ -1,20 +1,86 @@
-# 💫 About Me:
-I’m a second-year Computer Science Engineering student exploring the field of Artificial Intelligence, with a particular interest in Natural Language Processing, Computer Vision, and Generative AI.<br><br>I’m still figuring out where I want to specialize, so I enjoy learning across different areas of technology and understanding how things work rather than limiting myself to one path too early. At the moment, I’m building my foundations in programming, computer science, and AI while gaining hands-on experience through projects and research-oriented work.<br><br>I value curiosity, continuous learning, and building things that have a practical purpose. I’m always open to meaningful collaborations, new perspectives, and opportunities that help me grow as an engineer.
+<div align="center">
 
+# 🌷 tejal.exe
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejalnarwal) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tejalnarwal07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejalnarwal07@gmail.com) 
+**second-year computer science student exploring AI, data & design.**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=teeeezal&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=teeeezal&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=teeeezal&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub](https://img.shields.io/badge/github-teeezal-0D1117?style=for-the-badge&logo=github&logoColor=B8A7FF)](https://github.com/teeezal)
+[![LinkedIn](https://img.shields.io/badge/linkedin-tejalnarwal-0D1117?style=for-the-badge&logo=linkedin&logoColor=A9C8FF)](https://www.linkedin.com/in/tejalnarwal/)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=teeeezal&icon=0&color=12)](https://visitcount.itsvg.in)
 
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="assets/pixel-tejal.gif" width="340" alt="Animated pixel art character surrounded by flowers and hearts">
+
+</td>
+<td width="60%" valign="middle">
+
+### hello, i'm tejal ♡
+
+**second-year computer science student exploring AI, data & design.**  
+Still figuring things out, overthinking my options, and occasionally spiraling into *way too many* thoughts about what I'm supposed to be doing with my life.
+
+Still, I keep showing up. Even when a new AI model drops every other night and gives me a tiny existential crisis about my career 🫠
+
+Currently curious about almost everything, always learning, building practical things, and very open to collaborations, new ideas, and seeing where all of this takes me. 🌷♡
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌱 currently growing
+
+<p align="center">
+<img src="assets/currently-growing.svg" width="760" alt="Current learning progress bars">
+</p>
+
+> *progress, not perfection. ♡*
+
+---
+
+## 📊 github at a glance
+
+<p align="center">
+<a href="https://github.com/teeezal">
+<img src="https://github-readme-stats.vercel.app/api?username=teeezal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B8A7FF&text_color=E8E4ED&icon_color=FFB7D5&rank_icon=github&include_all_commits=true" alt="Tejal's GitHub stats">
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/teeezal">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teeezal&layout=compact&hide_border=true&bg_color=0D1117&title_color=B8A7FF&text_color=E8E4ED" alt="Most used languages">
+</a>
+</p>
+
+---
+
+## 💌 let's talk ♡
+
+<p align="center">
+<img src="assets/lets-talk.svg" width="760" alt="Let's talk panel">
+</p>
+
+<div align="center">
+
+[**github · @teeezal**](https://github.com/teeezal) · [**linkedin · /tejalnarwal**](https://www.linkedin.com/in/tejalnarwal/)
+
+*i'm anonymous elsewheree 🤧*
+
+</div>
+
+---
+
+<div align="center">
+
+🐈 🌸 ✦ **keep learning, keep building, keep being curious.** ✦ 🌸 🐈
+
+<sub>made with curiosity, too many tabs, and probably a cat nearby.</sub>
+
+</div>
