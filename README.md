@@ -4,7 +4,7 @@
 
 **second-year computer science student exploring AI, data & design.**
 
-[![GitHub](https://img.shields.io/badge/github-teeezal-0D1117?style=for-the-badge&logo=github&logoColor=B8A7FF)](https://github.com/teeezal)
+[![GitHub](https://img.shields.io/badge/github-teeeezal-0D1117?style=for-the-badge&logo=github&logoColor=B8A7FF)](https://github.com/teeeezal)
 [![LinkedIn](https://img.shields.io/badge/linkedin-tejalnarwal-0D1117?style=for-the-badge&logo=linkedin&logoColor=A9C8FF)](https://www.linkedin.com/in/tejalnarwal/)
 
 </div>
@@ -48,13 +48,13 @@ Currently curious about almost everything, always learning, building practical t
 ## 📊 github at a glance
 
 <p align="center">
-<a href="https://github.com/teeezal">
+<a href="https://github.com/teeeezal">
 <img src="https://github-readme-stats.vercel.app/api?username=teeezal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B8A7FF&text_color=E8E4ED&icon_color=FFB7D5&rank_icon=github&include_all_commits=true" alt="Tejal's GitHub stats">
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/teeezal">
+<a href="https://github.com/teeeezal">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teeezal&layout=compact&hide_border=true&bg_color=0D1117&title_color=B8A7FF&text_color=E8E4ED" alt="Most used languages">
 </a>
 </p>
@@ -69,18 +69,9 @@ Currently curious about almost everything, always learning, building practical t
 
 <div align="center">
 
-[**github · @teeezal**](https://github.com/teeezal) · [**linkedin · /tejalnarwal**](https://www.linkedin.com/in/tejalnarwal/)
-
-*i'm anonymous elsewheree 🤧*
-
-</div>
 
 ---
 
 <div align="center">
-
-🐈 🌸 ✦ **keep learning, keep building, keep being curious.** ✦ 🌸 🐈
-
-<sub>made with curiosity, too many tabs, and probably a cat nearby.</sub>
 
 </div>
