@@ -1,8 +1,8 @@
 <div align="center">
 
 # 🌷 tejal narwal 🌷
-
 **second-year computer science student exploring AI, data & design.**
+
 [![GitHub](https://img.shields.io/badge/github-teeezal-0D1117?style=for-the-badge&logo=github&logoColor=B8A7FF)](https://github.com/teeezal)
 [![LinkedIn](https://img.shields.io/badge/linkedin-tejalnarwal-0D1117?style=for-the-badge&logo=linkedin&logoColor=A9C8FF)](https://www.linkedin.com/in/tejalnarwal/)
 
