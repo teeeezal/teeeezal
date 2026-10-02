@@ -3,7 +3,6 @@
 <style>
 text{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
 </style>
-<text x="28" y="42" fill="#A8E6CF" font-size="22" font-weight="700">🌱 currently growing</text>
 <text x="28" y="82" fill="#E8E4ED" font-size="16">machine learning</text>
 <text x="205" y="82" fill="#D8B9FF" font-size="16">70%</text>
 <rect x="250" y="67" width="330" height="18" rx="4" fill="#252B38"/>
