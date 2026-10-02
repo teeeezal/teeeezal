@@ -49,19 +49,19 @@ Currently curious about almost everything, always learning, building practical t
 
 <p align="center">
 <a href="https://github.com/teeeezal">
-<img src="https://github-readme-stats.vercel.app/api?username=teeezal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B8A7FF&text_color=E8E4ED&icon_color=FFB7D5&rank_icon=github&include_all_commits=true" alt="Tejal's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=teeeezal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B8A7FF&text_color=E8E4ED&icon_color=FFB7D5&rank_icon=github&include_all_commits=true" alt="Tejal's GitHub stats">
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/teeeezal">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teeezal&layout=compact&hide_border=true&bg_color=0D1117&title_color=B8A7FF&text_color=E8E4ED" alt="Most used languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teeeezal&layout=compact&hide_border=true&bg_color=0D1117&title_color=B8A7FF&text_color=E8E4ED" alt="Most used languages">
 </a>
 </p>
 
 ---
 
-## 💌 let's talk ♡
+## 💌 my contact ♡
 
 <p align="center">
 <img src="assets/lets-talk.svg" width="760" alt="Let's talk panel">
